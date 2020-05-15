@@ -45,4 +45,5 @@ See beforeEach.spec.js for details
 
 Example:
 ``` cy.get('input').type('This is how we hit enter {Enter}');```
-   
+
+<img width="801" alt="test_files" src="https://user-images.githubusercontent.com/5984252/81999800-1affcd80-960b-11ea-8223-86a78ddcc4ca.png">
