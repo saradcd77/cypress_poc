@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "env" : {
+        "my_env_var" : "hello"
+    }
+}
